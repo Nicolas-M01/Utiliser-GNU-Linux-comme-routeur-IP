@@ -17,10 +17,12 @@
 
 
 ## Routeur R2  
+![Capture d'écran 2024-12-29 164019](https://github.com/user-attachments/assets/d29bbe08-be2f-48b5-9030-2ed6577e7ad5)  
 
 
 ## Machine 12  
-
+![Capture d'écran 2024-12-29 164057](https://github.com/user-attachments/assets/f984e9b1-ad86-423a-9f2d-b2a5bcc58d84)  
 
 
 ## Machine 13  
+![Capture d'écran 2024-12-29 164126](https://github.com/user-attachments/assets/762b4c7f-1d44-432e-be5c-61554d8464cf)  
